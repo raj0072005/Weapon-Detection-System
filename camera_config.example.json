@@ -1,0 +1,6 @@
+{
+  "camera_id": "CITY-CAM-001",
+  "location": "Example: Junction of Main Street and Station Road, Ward 4",
+  "ip_address": "10.20.30.40",
+  "rtsp_url": "rtsp://username:password@10.20.30.40:554/stream1"
+}

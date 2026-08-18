@@ -1,0 +1,38 @@
+# Python virtual environments
+.venv/
+.venv-new/
+.webcam-venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Dataset files & archives
+Dataset/
+weapon_dataset.zip
+*.zip
+*.tar.gz
+*.rar
+
+# Runtime outputs, detection evidence & recordings
+outputs/
+*.log
+
+# Sensitive configs & local overrides
+.env
+camera_config.json
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.agents/
